@@ -1,1 +1,2 @@
 This file is created from new-branch!
+Conflict line!!!
